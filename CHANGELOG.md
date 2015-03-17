@@ -1,2 +1,6 @@
-##### v0.1a (January 2013)
+##### v0.2a (Foeh Mannay, January 2013)
+  Added support for RADIUS and L2TP captures.
+  Fixed a bug in MPLS decap.
+
+##### v0.1a (Foeh Mannay, January 2013)
   First working release, only works with PPPoE traffic.
