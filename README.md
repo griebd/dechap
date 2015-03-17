@@ -13,10 +13,10 @@ uncompressed here as tags. :wink:
 #### purpuse
 
 dechap is a tool which attempts to recover login credentials from captured
-PPPoE, RADIUS and L2TP CHAP authentications or MD5 authenticated OSPF traffic.
-It strips away any 802.1Q tags and / or MPLS labels which are present to get to
-the good stuff and then runs a dictionary attack against any authentications it
-finds.
+PPPoE, RADIUS and L2TP CHAP authentications plus MD5 authenticated OSPF or BGP
+traffic. It strips away any 802.1Q tags and / or MPLS labels which are present
+to get to the good stuff and then runs a dictionary attack against any
+authentications it finds.
 
 Please see [Foeh Mannay](http://www.blogger.com/profile/10422929908647460238)
 blog [Bringing Up a PPPoE Session - The Theory]

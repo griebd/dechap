@@ -1,3 +1,6 @@
+##### v0.4a (Foeh Mannay, October 2013)
+  Added support for MD5 authenticated BGP.
+
 ##### v0.3a (Foeh Mannay, September 2013)
   Added support for MD5 authenticated OSPF.
 
