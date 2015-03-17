@@ -21,7 +21,7 @@ authentications it finds.
 Please see [Foeh Mannay](http://www.blogger.com/profile/10422929908647460238)
 blog [Bringing Up a PPPoE Session - The Theory]
 (http://networkingbodges.blogspot.com/2013/01/bringing-up-pppoe-session-theory.html)
-and [recovering-chap-passwords-from-sniffed.html]
+and [Recovering CHAP Passwords from Sniffed PPPoE Sessions]
 (http://networkingbodges.blogspot.com.br/2013/01/recovering-chap-passwords-from-sniffed.html)
 for more information on the theory behind this if you are interested.
 
@@ -49,5 +49,5 @@ Found password "t1nt3rn3t" for TCP from 10.0.0.2 to 10.0.0.1.
 
 #### credits
 
-All hard work done by Foeh Mannay [GitHub](https://github.com/theclam)
-[blog](http://www.blogger.com/profile/10422929908647460238)
+All hard work done by Foeh Mannay. [GitHub](https://github.com/theclam).
+[Blog](http://www.blogger.com/profile/10422929908647460238).
