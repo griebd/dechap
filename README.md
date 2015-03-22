@@ -1,4 +1,4 @@
-### gdechap
+### dechap
 
 A tool for recovering credentials from sniffed PPPoE, RADIUS and L2TPv2 CHAP
 authentications
